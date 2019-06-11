@@ -1,0 +1,21 @@
+{
+    "name": "task-17.4",
+    "version": "1.0.0",
+    "description": "test",
+    "main": "app/program.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app/program.js",
+        "gitignore": "curl https://raw.githubusercontent.com/github/gitignore/master/Node.gitignore -o .gitignore"
+    },
+    "keywords": [
+        "nauka",
+        "npm",
+        "node"
+    ],
+    "author": "Kamil",
+    "license": "ISC",
+    "dependencies": {
+
+    }
+}
